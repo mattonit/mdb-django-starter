@@ -1,3 +1,6 @@
 [submodule "mdb"]
     path = posts/mdb
     url = https://github.com/mdbootstrap/bootstrap-material-design.git
+[submodule "posts/static"]
+	path = posts/static
+	url = git@github.com:mdbootstrap/bootstrap-material-design.git
