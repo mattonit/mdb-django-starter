@@ -1,0 +1,3 @@
+[submodule "posts/static"]
+    path = posts/static
+    url = https://github.com/mdbootstrap/bootstrap-material-design
